@@ -13,5 +13,5 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GIT_EMAIL: asamtilu@gmail.com # replace me
         MAX_DAYS: 365
-        MIN_COMMITS_PER_DAY: 10
+        MIN_COMMITS_PER_DAY: 8
         MAX_COMMITS_PER_DAY: 10
